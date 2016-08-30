@@ -34,5 +34,7 @@ run some of the iterative algorithms smoothly.
 
 ##Related Books:
 [R Machine Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-machine-learning-essentials?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781783987740)
+
 [R Machine Learning By Example](https://www.packtpub.com/big-data-and-business-intelligence/r-machine-learning-example?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781784390846)
+
 [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781782162148)
